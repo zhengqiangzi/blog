@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "路漫漫其修远兮 吾将上下而求索"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -20,7 +20,7 @@ rss:
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false
 
 
 # ---------------------------------------------------------------
@@ -33,7 +33,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in main hexo config.
 # subtitle: Subtitle
@@ -50,7 +50,8 @@ menu:
   #categories: /categories/
   #about: /about/
   archives: /archives/
-  tags: /tags/
+  javascript: /tags/javascript/
+  css: /tags/css/
   #sitemap: /sitemap.xml
   #commonweal: /404/
 
@@ -66,7 +67,8 @@ menu_icons:
   about: user
   categories: th
   schedule: calendar
-  tags: tags
+  javascript: ravelry
+  css: css3
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
@@ -77,7 +79,7 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+scheme: Gemini
 #scheme: Mist
 #scheme: Pisces
 #scheme: Gemini
@@ -126,7 +128,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+avatar: /images/psu.jpg
 
 # Table Of Contents in the Sidebar
 toc:
