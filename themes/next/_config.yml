@@ -52,6 +52,7 @@ menu:
   archives: /archives/
   javascript: /tags/javascript/
   css: /tags/css/
+  another: /tags/another
   #sitemap: /sitemap.xml
   #commonweal: /404/
 
@@ -69,6 +70,7 @@ menu_icons:
   schedule: calendar
   javascript: ravelry
   css: css3
+  another: map
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
